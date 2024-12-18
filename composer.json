@@ -1,0 +1,19 @@
+{
+    "name": "shohjahon/to-do",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "controller\\": "controller/"
+        }
+    },
+    "authors": [
+        {
+            "name": "foziljonvc",
+            "email": "shohjahonergashev707@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
